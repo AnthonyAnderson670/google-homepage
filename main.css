@@ -13,7 +13,7 @@ body {
 }
 
 #searchform {
-  padding: 225px 0;
+  padding: 225px 100px;
 }
 
 #google-img {
@@ -24,9 +24,9 @@ body {
 }
 
 #search-container {
-  height: 30px;
+  height: 40px;
   display: block;
-  margin: 25px auto;
+  margin: 35px auto;
   border: 1px solid;
   border-color: #9aa0a6;
   border-radius: 30px;
@@ -39,7 +39,7 @@ body {
 
 #buttons {
   margin: auto;
-  width: 35%;
+  margin: 0 35%;
 }
 
 #search-img {
